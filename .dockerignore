@@ -1,5 +1,6 @@
 __pycache__/
 .env
 .git/
-*.json
-*.txt
+messy_shipment.txt
+sample_shipment.txt
+port_rules.txt
