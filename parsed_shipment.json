@@ -1,0 +1,9 @@
+{
+    "shipper_name": "ABC Logistics",
+    "consignee": "XYZ Corporation",
+    "origin_city": "New York",
+    "destination_city": "Los Angeles",
+    "weight_in_kg": 1000,
+    "container_number": "CN123456",
+    "estimated_delivery_date": "2024-03-15"
+}

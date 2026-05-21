@@ -1,0 +1,4 @@
+RULE 101: All containers arriving at Karachi Port from Shanghai must be inspected for electronics.
+RULE 102: Priority shipments (High) are exempt from the 24-hour waiting period at the dock.
+RULE 103: Weight limit for trucks on the main port exit is 20,000kg.
+RULE 104: Any container marked 'Fragile' must be stored in Warehouse Section B.

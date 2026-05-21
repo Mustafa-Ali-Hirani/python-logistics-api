@@ -1,0 +1,9 @@
+{
+  "shipper_name": "Global Exports Ltd",
+  "consignee": "Mustafa Logistics",
+  "origin_city": "Shanghai",
+  "destination_city": "Karachi",
+  "weight_kg": 1250.0,
+  "container_number": "ABC-999-XYZ",
+  "estimated_delivery_date": "2025-05-15"
+}

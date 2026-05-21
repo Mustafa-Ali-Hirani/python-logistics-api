@@ -1,0 +1,7 @@
+Shipper Name: ABC Logistics
+Consignee: XYZ Corporation
+Origin City: New York
+Destination City: Los Angeles
+Weight in kg: 1000
+Container Number: CN123456
+Estimated Delivery Date: 2024-03-15
