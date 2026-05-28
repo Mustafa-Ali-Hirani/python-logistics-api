@@ -2,3 +2,7 @@ RULE 101: All containers arriving at Karachi Port from Shanghai must be inspecte
 RULE 102: Priority shipments (High) are exempt from the 24-hour waiting period at the dock.
 RULE 103: Weight limit for trucks on the main port exit is 20,000kg.
 RULE 104: Any container marked 'Fragile' must be stored in Warehouse Section B.
+
+RULE 105: All maritime cargo declared as Class 9 hazardous materials, specifically lithium-ion batteries exceeding 100Wh, are strictly prohibited from entering Karachi port warehouses. All such shipments must undergo direct port delivery (DPD) to an off-site authorized customs bonded facility within 4 hours of offloading. Storage in transit sheds is subject to immediate seizure.
+
+RULE 106: Import duties for electrical circuit breakers and switchgear from China are set at 12.5% ad valorem, subject to a valid Certificate of Conformity (CoC) issued by an accredited laboratory in the exporting nation.

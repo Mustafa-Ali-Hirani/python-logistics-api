@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-05-24T06:52:58.431664+00:00",
+    "user_id": "usr_009",
+    "user_role": "Guest",
+    "accessed_resource": "BOL-99281-X",
+    "authorization_status": "APPROVED",
+    "privilege_scope": "Minimal (Guest Scope Only)"
+  },
+  {
+    "timestamp": "2026-05-24T06:52:58.433095+00:00",
+    "user_id": "usr_042",
+    "user_role": "CustomsAgent",
+    "accessed_resource": "BOL-99281-X",
+    "authorization_status": "APPROVED",
+    "privilege_scope": "Partial (Customs Scope Only)"
+  },
+  {
+    "timestamp": "2026-05-24T06:52:58.443300+00:00",
+    "user_id": "usr_101",
+    "user_role": "ComplianceOfficer",
+    "accessed_resource": "BOL-99281-X",
+    "authorization_status": "APPROVED",
+    "privilege_scope": "Full"
+  }
+]
